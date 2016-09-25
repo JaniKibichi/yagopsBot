@@ -1,0 +1,11 @@
+{
+  "name": "yagop",
+  "version": "0.0.0",
+  "description": "a bot by yagop",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "janikibichi",
+  "license": "BSD-2-Clause"
+}
